@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Salma</h1>
-<p align="left">
+<p align="right">
   <img src="assets/pixel-saturn.gif" width="300">
 </p>
 <h3 align="center">A Data Scientist and Analyst from Egypt</h3>
