@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salma</h1>
+<h1 align="center">Hi , I'm Salma</h1>
 <h3 align="center">A Data Scientist and Analyst from Egypt</h3>
 
 - All of my projects are available at [https://salmas-portfolio.salma33morsi.workers.de](https://salmas-portfolio.salma33morsi.workers.de)
