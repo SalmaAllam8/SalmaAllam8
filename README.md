@@ -1,12 +1,13 @@
 <h1 align="center">Hi , I'm Salma</h1>
+<p align="center">
+  <img src="assets/pixel-saturn.gif" width="300">
+</p>
 <h3 align="center">A Data Scientist and Analyst from Egypt</h3>
 
 - All of my projects are available at [https://salmas-portfolio.salma33morsi.workers.de](https://salmas-portfolio.salma33morsi.workers.de)
 
 - How to reach me **Salma33morsi@gmail.com**
-<p align="center">
-  <img src="assets/pixel-saturn.gif" width="300">
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salma-morsi-334bb9234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-morsi-334bb9234" height="30" width="40" /></a>
