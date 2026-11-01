@@ -1,29 +1,12 @@
 <h1 align="center">Hi , I'm Salma</h1>
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <h3>A Data Scientist and Analyst from Egypt</h3>
+<img align="right" src="assets/pixel-saturn.gif" width="300">
 
-      <p>
-        All of my projects are available at
-        <a href="https://salmas-portfolio.salma33morsi.workers.dev">salmas-portfolio.salma33morsi.workers.dev</a>
-      </p>
+<h3>A Data Scientist and Analyst from Egypt</h3>
 
-      <p>
-        How to reach me: <b>Salma33morsi@gmail.com</b>
-      </p>
-    </td>
-    <td align="right" valign="middle">
-      <img src="assets/pixel-saturn.gif" width="300">
-    </td>
-  </tr>
-</table>
+<p>All of my projects are available at <a href="https://salmas-portfolio.salma33morsi.workers.dev">salmas-portfolio.salma33morsi.workers.dev</a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salma-morsi-334bb9234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-morsi-334bb9234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saturnsailor8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saturnsailor8" height="30" width="40" /></a>
-</p>
+<p>How to reach me: <b>Salma33morsi@gmail.com</b></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
