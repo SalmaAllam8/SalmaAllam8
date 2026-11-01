@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Salma</h1>
-<p align="center">
+<p align="left">
   <img src="assets/pixel-saturn.gif" width="300">
 </p>
 <h3 align="center">A Data Scientist and Analyst from Egypt</h3>
 
-- All of my projects are available at [https://salmas-portfolio.salma33morsi.workers.de](https://salmas-portfolio.salma33morsi.workers.de)
+- All of my projects are available at [https://salmas-portfolio.salma33morsi.workers.de](https://salmas-portfolio.salma33morsi.workers.dev)
 
 - How to reach me **Salma33morsi@gmail.com**
 
