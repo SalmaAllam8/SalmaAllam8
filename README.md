@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #b735db;" >Hi , I'm Salma</h1>
 <img align="right" src="assets/pixel-saturn.gif" width="300">
 
-<h2>A Data Scientist and Analyst from Egypt</h2>
+<h3>A Data Scientist and Analyst from Egypt</h3>
 
 <p>
 All of my projects are available at <a href="https://salmas-portfolio.salma33morsi.workers.dev">salmas-portfolio.salma33morsi.workers.dev</a></p>
